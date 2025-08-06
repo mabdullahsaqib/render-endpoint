@@ -1,0 +1,2 @@
+# No additional dependencies required for this basic implementation
+# Python standard library modules (json, http.server, sys) are sufficient
